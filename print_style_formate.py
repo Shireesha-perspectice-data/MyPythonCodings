@@ -1,0 +1,1 @@
+print("salary %5s,Total_salary:-%6d"%("2345",3456))

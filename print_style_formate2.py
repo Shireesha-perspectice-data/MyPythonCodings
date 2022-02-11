@@ -1,0 +1,1 @@
+print("intrest %2s; Rate_of_intrest:- %.3f; Total_amount_is:-%9s"%("20,000",3.5000,"60,000000"))         #unexpected EOF while parsing means to check the paranthasis

@@ -1,0 +1,1 @@
+print("sales :{0:d}, Total :{1:9.2f}".format(12323,00.546))  #padding spaces before for an integer(d)

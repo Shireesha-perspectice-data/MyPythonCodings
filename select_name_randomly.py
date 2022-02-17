@@ -9,4 +9,4 @@ def listing(names):
 		list.append(l)
 		print(list)
 		break;
-print(listing(names=['Rahul','Rajesh','Manoj','Manvika']))
+listing(names=['Rahul','Rajesh','Manoj','Manvika'])

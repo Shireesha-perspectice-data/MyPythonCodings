@@ -1,0 +1,1 @@
+print([["x" if num%2==0 else "l*"for num in range(1,6)]for value in range(1,5)])

@@ -1,4 +1,4 @@
-# print the prime numbers
+# print the odd numbers
 def fun(l):
     count=1;
     for i in l:

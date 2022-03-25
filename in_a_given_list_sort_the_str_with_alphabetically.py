@@ -1,6 +1,5 @@
 def fun(str):
-	return len(str)
-
-cars=["Wagon","Vivo","BMW","Tata","Maruthi Suzuki"]
+	return str
+cars=["Wagon","Vivo","Abc","BMW","Tata","ascend","Maruthi Suzuki","bgn"]
 cars.sort(key=fun)
 print(cars)

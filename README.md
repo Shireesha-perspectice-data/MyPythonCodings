@@ -1,3 +1,3 @@
 Python 
 
-All topics covered in python
+All topics covered in Python

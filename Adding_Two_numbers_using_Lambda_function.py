@@ -1,4 +1,5 @@
-# Adding Two Numbers using Lambda Function 
+# Adding Two Numbers using Lambda Function
+
 def add_n(n):
 	return lambda x:x+n
 adds_n=lambda n:lambda x:x+n

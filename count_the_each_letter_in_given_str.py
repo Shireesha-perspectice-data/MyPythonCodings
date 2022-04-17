@@ -1,3 +1,4 @@
+# count the each charactors
 def fun(sam):
     d={}
     for j in sam:

@@ -1,3 +1,4 @@
+# sum of the two values
 def add_num(a,b):
 	sum_of_two_values=a+b
 	return sum_of_two_values

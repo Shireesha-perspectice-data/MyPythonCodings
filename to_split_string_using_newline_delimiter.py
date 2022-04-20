@@ -6,7 +6,9 @@ init_str="this is the program "
 print("Initial string", init_str)
 
 #splitting on newline delimiter
-res_list=(init_str.rstrip().split('[], '))
+res_list=(init_str.rstrip().split(' '))
+st="list".split(',')
+print(st)
 
 #printing the result
 print("Resultant prifix",str(res_list))

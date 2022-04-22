@@ -6,5 +6,4 @@ class class_roll_no(class_name):
 		self.x2=34;
 ref_obj=class_name()   #created the reference variable
 print(ref_obj.class1())
-print(ref_obj.x1)
-
+print(ref_obj.x1) #to access the current variable through the object

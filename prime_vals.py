@@ -17,4 +17,3 @@ def fun(my_list):
 			print(i,"prime value")
 	return prime,"******"
 print(fun(my_list=6))
-		
